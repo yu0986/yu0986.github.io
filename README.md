@@ -8,9 +8,12 @@
 ## 興趣
 無
 ```C
-#include stdio.h
+#include <stdio.h>
+int main()
+{
   printf("!!!"\n);
   return 0;
+}
 ```
 
 ## 圖片
