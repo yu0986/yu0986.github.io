@@ -4,8 +4,15 @@
 
 ## 自我介紹
 是人
+
 ## 興趣
 無
+```C
+#include stdio.h
+  printf("!!!"\n);
+  return 0;
+```
+
 ## 圖片
 [圖片]
 
